@@ -1,5 +1,5 @@
-# AdventuraVerse
-<br>
+# AdventuraVerse<br>
+
 1. Introduction<br>
 
 The project "AdventuraVerse" is a multi-level game designed to entertain and engage players in various challenges. It comprises three levels, each offering a distinct game: Rock Paper Scissors, Riddles, and Connect 4. The project utilizes Python programming language to implement game logic and user interaction.<br>
